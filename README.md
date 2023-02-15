@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **miko2833@interia.pl**
 
-- ⚡ Fun fact **I really like to cooperate with others**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
