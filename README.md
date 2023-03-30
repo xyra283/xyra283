@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyra283&show_icons=true&locale=en" alt="xyra283" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xyra283&" alt="xyra283" /></p>
+
+<img src="Animation.gif" width="40" height="40" />
