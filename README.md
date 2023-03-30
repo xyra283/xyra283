@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xyra283&" alt="xyra283" /></p>
 
-<img src="Animation.gif" width="40" height="40" />
+<img src="Animation.gif" width="400" height="400" />
