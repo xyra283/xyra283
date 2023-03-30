@@ -25,5 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyra283&show_icons=true&locale=en" alt="xyra283" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xyra283&" alt="xyra283" /></p>
-
-<img src="Animation.gif" width="400" height="400" />
+<h3 align="left">Newest weather forecast website</h3>
+<img src="Animation.gif" align="center" alt="xyra283"/>
